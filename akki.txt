@@ -1,0 +1,1 @@
+LINUX: Linux is a system software, invented by Linus Torvalds. 
